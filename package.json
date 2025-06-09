@@ -1,7 +1,7 @@
 {
   "name": "japanese-kanji-app",
   "version": "0.1.0",
-  "homepage": "https://mario.github.io/KanjiApp-WS",
+  "homepage": "https://indy21m.github.io/KanjiApp-WS",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.14.0",
